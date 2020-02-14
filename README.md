@@ -6,8 +6,9 @@
     - Creates an account for you
     - Comments on posts
 
-**genreally since instagram is mean they wont let you create more than two account even when using a proxy**
+**Generally since instagram is mean they wont let you create more than two account even when using a proxy**
     - Meaning you'll be banned from creating an account for a day
+    - Also sometimes when the account get created instagram will ask for verfiation which just fucks everything
     
 - **Running**
     - Of course with any python project you'll need to install the necessary packages etc
